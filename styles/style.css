@@ -1,0 +1,22 @@
+
+
+.container {
+    display: grid;
+    grid-template-columns: auto auto;
+    width: 960px;
+    height: 960px;
+    border: 1px solid black;
+}
+
+.testDiv {
+    border: 1px solid black;
+}
+
+.onHover {
+    background-color: black;
+}
+
+#buttonClear {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
